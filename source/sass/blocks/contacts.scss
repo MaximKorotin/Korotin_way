@@ -40,12 +40,6 @@
 .contacts__link {
   display: flex;
   align-items: center;
-
-  @media (min-width: $mobile-width) and (max-width: $mobile-max-width) {
-  }
-
-  @media (min-width: $tablet-width) and (max-width: $tablet-max-width) {
-  }
 }
 
 .contacts__link--email {

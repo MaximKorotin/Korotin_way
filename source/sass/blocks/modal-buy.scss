@@ -9,7 +9,7 @@
   height: 444px;
   margin: auto;
   background-color: $basic__light-three;
-  background-image: url(../img/modal-buy.jpg);
+  background-image: url("../img/modal-buy.jpg");
   background-repeat: no-repeat;
   background-size: 338px 444px;
   background-position-x: 0;
@@ -122,7 +122,7 @@
     left: 14px;
     padding-top: 7px;
     padding-left: 10px;
-    background-image: url(../img/icons/asterisk.svg);
+    background-image: url("../img/icons/asterisk.svg");
     background-repeat: no-repeat;
     background-size: 7px 7px;
   }
@@ -161,7 +161,7 @@
   height: 22px;
   padding: 0;
   background-color: $basic__light-three;
-  background-image: url(../../img/icons/cross.svg);
+  background-image: url("../img/icons/cross.svg");
   border: 0;
   cursor: pointer;
   z-index: 15;
